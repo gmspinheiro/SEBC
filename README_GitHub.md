@@ -7,7 +7,7 @@ a) You rename the top-level directory to `SEBC`
 b) You **don't** duplicate the top-level directory, e.g., `./SEBC-master/SEBC`
 
 Getting the path right makes it much easier for us to work through
-all repositories at one time.
+all repositories at one time
 
 Once this is done:
 * Create an empty repository called SEBC on your GitHub account. Do **not** create a `README.md` file with it.
