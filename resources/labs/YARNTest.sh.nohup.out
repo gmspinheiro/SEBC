@@ -1,0 +1,353 @@
+Testing loop started on Wed Oct 17 16:05:36 UTC 2018
+#Mapper containers 1
+#Reducer containers: 1
+#Container memory: 512
+
+real	2m24.826s
+user	0m9.569s
+sys	0m0.567s
+
+real	15m55.391s
+user	0m14.332s
+sys	0m1.169s
+Deleted /results/tg-10GB-1-1-512
+Deleted /results/ts-10GB-1-1-512
+#Mapper containers 1
+#Reducer containers: 1
+#Container memory: 1024
+
+real	2m18.382s
+user	0m9.586s
+sys	0m0.586s
+
+real	15m57.603s
+user	0m14.644s
+sys	0m1.229s
+Deleted /results/tg-10GB-1-1-1024
+Deleted /results/ts-10GB-1-1-1024
+#Mapper containers 1
+#Reducer containers: 1
+#Container memory: 2048
+
+real	2m20.608s
+user	0m9.757s
+sys	0m0.594s
+
+real	16m20.683s
+user	0m14.619s
+sys	0m1.231s
+Deleted /results/tg-10GB-1-1-2048
+Deleted /results/ts-10GB-1-1-2048
+#Mapper containers 1
+#Reducer containers: 2
+#Container memory: 512
+
+real	2m28.543s
+user	0m9.701s
+sys	0m0.578s
+
+real	15m35.606s
+user	0m13.573s
+sys	0m1.153s
+Deleted /results/tg-10GB-1-2-512
+Deleted /results/ts-10GB-1-2-512
+#Mapper containers 1
+#Reducer containers: 2
+#Container memory: 1024
+
+real	2m21.661s
+user	0m10.344s
+sys	0m0.618s
+
+real	15m25.646s
+user	0m13.892s
+sys	0m1.161s
+Deleted /results/tg-10GB-1-2-1024
+Deleted /results/ts-10GB-1-2-1024
+#Mapper containers 1
+#Reducer containers: 2
+#Container memory: 2048
+
+real	2m25.428s
+user	0m9.737s
+sys	0m0.604s
+
+real	16m15.127s
+user	0m14.669s
+sys	0m1.150s
+Deleted /results/tg-10GB-1-2-2048
+Deleted /results/ts-10GB-1-2-2048
+#Mapper containers 1
+#Reducer containers: 4
+#Container memory: 512
+
+real	2m16.412s
+user	0m9.919s
+sys	0m0.616s
+
+real	16m10.574s
+user	0m14.424s
+sys	0m1.270s
+Deleted /results/tg-10GB-1-4-512
+Deleted /results/ts-10GB-1-4-512
+#Mapper containers 1
+#Reducer containers: 4
+#Container memory: 1024
+
+real	2m15.367s
+user	0m9.862s
+sys	0m0.580s
+
+real	14m43.330s
+user	0m14.375s
+sys	0m1.141s
+Deleted /results/tg-10GB-1-4-1024
+Deleted /results/ts-10GB-1-4-1024
+#Mapper containers 1
+#Reducer containers: 4
+#Container memory: 2048
+
+real	2m22.390s
+user	0m9.872s
+sys	0m0.579s
+
+real	14m48.333s
+user	0m13.955s
+sys	0m1.093s
+Deleted /results/tg-10GB-1-4-2048
+Deleted /results/ts-10GB-1-4-2048
+#Mapper containers 2
+#Reducer containers: 1
+#Container memory: 512
+
+real	2m29.424s
+user	0m9.777s
+sys	0m0.601s
+
+real	15m35.499s
+user	0m13.886s
+sys	0m1.124s
+Deleted /results/tg-10GB-2-1-512
+Deleted /results/ts-10GB-2-1-512
+#Mapper containers 2
+#Reducer containers: 1
+#Container memory: 1024
+
+real	2m22.408s
+user	0m9.708s
+sys	0m0.543s
+
+real	15m35.217s
+user	0m13.387s
+sys	0m1.164s
+Deleted /results/tg-10GB-2-1-1024
+Deleted /results/ts-10GB-2-1-1024
+#Mapper containers 2
+#Reducer containers: 1
+#Container memory: 2048
+
+real	2m21.482s
+user	0m9.611s
+sys	0m0.545s
+
+real	15m58.528s
+user	0m14.508s
+sys	0m1.268s
+Deleted /results/tg-10GB-2-1-2048
+Deleted /results/ts-10GB-2-1-2048
+#Mapper containers 2
+#Reducer containers: 2
+#Container memory: 512
+
+real	2m20.338s
+user	0m9.506s
+sys	0m0.587s
+
+real	15m23.309s
+user	0m13.473s
+sys	0m1.084s
+Deleted /results/tg-10GB-2-2-512
+Deleted /results/ts-10GB-2-2-512
+#Mapper containers 2
+#Reducer containers: 2
+#Container memory: 1024
+
+real	2m28.462s
+user	0m9.857s
+sys	0m0.623s
+
+real	15m32.861s
+user	0m13.888s
+sys	0m1.095s
+Deleted /results/tg-10GB-2-2-1024
+Deleted /results/ts-10GB-2-2-1024
+#Mapper containers 2
+#Reducer containers: 2
+#Container memory: 2048
+
+real	2m22.234s
+user	0m9.339s
+sys	0m0.606s
+
+real	16m6.501s
+user	0m14.348s
+sys	0m1.238s
+Deleted /results/tg-10GB-2-2-2048
+Deleted /results/ts-10GB-2-2-2048
+#Mapper containers 2
+#Reducer containers: 4
+#Container memory: 512
+
+real	2m22.507s
+user	0m9.890s
+sys	0m0.578s
+
+real	14m54.244s
+user	0m13.857s
+sys	0m1.086s
+Deleted /results/tg-10GB-2-4-512
+Deleted /results/ts-10GB-2-4-512
+#Mapper containers 2
+#Reducer containers: 4
+#Container memory: 1024
+
+real	2m27.485s
+user	0m9.693s
+sys	0m0.650s
+
+real	14m53.380s
+user	0m14.729s
+sys	0m1.171s
+Deleted /results/tg-10GB-2-4-1024
+Deleted /results/ts-10GB-2-4-1024
+#Mapper containers 2
+#Reducer containers: 4
+#Container memory: 2048
+
+real	2m26.498s
+user	0m9.713s
+sys	0m0.655s
+
+real	14m35.733s
+user	0m14.183s
+sys	0m1.142s
+Deleted /results/tg-10GB-2-4-2048
+Deleted /results/ts-10GB-2-4-2048
+#Mapper containers 4
+#Reducer containers: 1
+#Container memory: 512
+
+real	2m37.443s
+user	0m9.833s
+sys	0m0.596s
+
+real	14m40.517s
+user	0m14.500s
+sys	0m1.228s
+Deleted /results/tg-10GB-4-1-512
+Deleted /results/ts-10GB-4-1-512
+#Mapper containers 4
+#Reducer containers: 1
+#Container memory: 1024
+
+real	2m31.641s
+user	0m9.773s
+sys	0m0.604s
+
+real	15m52.495s
+user	0m13.736s
+sys	0m1.149s
+Deleted /results/tg-10GB-4-1-1024
+Deleted /results/ts-10GB-4-1-1024
+#Mapper containers 4
+#Reducer containers: 1
+#Container memory: 2048
+
+real	2m39.453s
+user	0m9.539s
+sys	0m0.624s
+
+real	14m56.393s
+user	0m14.310s
+sys	0m1.168s
+Deleted /results/tg-10GB-4-1-2048
+Deleted /results/ts-10GB-4-1-2048
+#Mapper containers 4
+#Reducer containers: 2
+#Container memory: 512
+
+real	2m27.585s
+user	0m9.765s
+sys	0m0.575s
+
+real	15m19.579s
+user	0m14.279s
+sys	0m1.214s
+Deleted /results/tg-10GB-4-2-512
+Deleted /results/ts-10GB-4-2-512
+#Mapper containers 4
+#Reducer containers: 2
+#Container memory: 1024
+
+real	2m36.302s
+user	0m9.651s
+sys	0m0.622s
+
+real	15m40.258s
+user	0m14.056s
+sys	0m1.213s
+Deleted /results/tg-10GB-4-2-1024
+Deleted /results/ts-10GB-4-2-1024
+#Mapper containers 4
+#Reducer containers: 2
+#Container memory: 2048
+
+real	2m33.393s
+user	0m9.604s
+sys	0m0.586s
+
+real	15m39.774s
+user	0m13.843s
+sys	0m1.205s
+Deleted /results/tg-10GB-4-2-2048
+Deleted /results/ts-10GB-4-2-2048
+#Mapper containers 4
+#Reducer containers: 4
+#Container memory: 512
+
+real	2m36.099s
+user	0m8.732s
+sys	0m0.630s
+
+real	14m37.926s
+user	0m12.772s
+sys	0m1.070s
+Deleted /results/tg-10GB-4-4-512
+Deleted /results/ts-10GB-4-4-512
+#Mapper containers 4
+#Reducer containers: 4
+#Container memory: 1024
+
+real	2m37.966s
+user	0m8.940s
+sys	0m0.577s
+
+real	14m39.517s
+user	0m13.239s
+sys	0m1.103s
+Deleted /results/tg-10GB-4-4-1024
+Deleted /results/ts-10GB-4-4-1024
+#Mapper containers 4
+#Reducer containers: 4
+#Container memory: 2048
+
+real	2m26.217s
+user	0m9.330s
+sys	0m0.581s
+
+real	15m51.151s
+user	0m13.470s
+sys	0m1.132s
+Deleted /results/tg-10GB-4-4-2048
+Deleted /results/ts-10GB-4-4-2048
+Testing loop ended on Thu Oct 18 00:11:18 UTC 2018
