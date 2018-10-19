@@ -1,0 +1,3 @@
+````
+*/admin@GMSPINHEIRO.SG  *
+````
