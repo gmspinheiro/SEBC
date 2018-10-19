@@ -19,6 +19,12 @@ cat /etc/cloudera-scm-server/db.properties
 ![](../png/2_scm_db_properties.png)
 
 #### Extra steps
+These steps were taken **before** installing the cloudera manager.
+
+**Disabled SELINUX**
+
+Set `SELINUX` to disabled in `/etc/selinux/config` and rebooted the machines.
+
 **Disabled IPV6 and set set vm.swappiness to 1**
 
 Added to `/etc/sysconf/network`
