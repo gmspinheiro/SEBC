@@ -1,6 +1,7 @@
 # Setup
 
 Cloud Provider: Azure
+
 OS: CentOS 7.3
 
 **Note:** **Ansible** was installed in the host `sebce1.madrid.es` to facilitate the distribution of operations.

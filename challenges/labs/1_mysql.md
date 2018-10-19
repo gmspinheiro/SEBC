@@ -2,7 +2,8 @@
 
 ### MariaDB
 Since the environment uses CentOS 7.3 I installed MariaDB
-Hostname of the mariadb-server `sebce1.madrid.es`.
+
+**Hostname of the mariadb-server** `sebce1.madrid.es`.
 
 #### On host `sebce1.madrid.es`
 ```
